@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332903748407",
+    "firebase_url": "https://my-presence-tracker.firebaseio.com",
+    "project_id": "my-presence-tracker",
+    "storage_bucket": "my-presence-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332903748407:android:036f616f057daf2d",
+        "android_client_info": {
+          "package_name": "nacho.tfg.blepresencetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332903748407-19spaivo6q47k2vnkro9c1hqa16a4k2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnMuA7OCgfgBijeALD0exucr9KV_SbdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
